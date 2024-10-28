@@ -1,0 +1,661 @@
+    1  sudoreboot
+    2  sudo reboot
+    3  git pull
+    4  git add .
+    5  git commit -m "coded line 7 & 8"
+    6  git push
+    7  git add .
+    8  git commit -m "codded line 7 & 7"
+    9  git push
+   10  git pull
+   11  ls
+   12  cd Documments
+   13  cd Documents
+   14  rmd
+   15  rm Documents
+   16  cd ..
+   17  ssh
+   18  ssh-keygen
+   19  /home/wtc/.ssh/id_rsa
+   20  cd /home/wtc/.ssh/id_rsa
+   21  cd /home/wtc/.ssh
+   22  ls ssh
+   23  ls
+   24  cat id_rsa.pub
+   25  cd Documents
+   26  cd..
+   27  cd ..
+   28  cd Documents
+   29  git clone git@github.com:Auston-Mtabane/commands-practice.git
+   30  ls
+   31  code commands-practice/
+   32  ping 8.8.8.8
+   33  cat id_rsa.pub
+   34  python blackjack.py
+   35  clear
+   36  code hello.py
+   37  clear
+   38  code greet.py
+   39  git add .
+   40  git commit -m "printed hhello world"
+   41  git status
+   42  git config --global --list
+   43  git config --global user.name "Oyintanda Sishuba"
+   44  git config --global user.email "oysishujhjhb024@student.wethinkcode.co.za"
+   45  git config --global --list
+   46  git add .
+   47  git status
+   48  git push
+   49  cd Documents
+   50  git clone git@gitlab.wethinkco.de:oysishujhb024/hello-world.git
+   51  cd hello-world
+   52  code .
+   53  _version = 0.1
+   54  [hello-world]
+   55  activity_id = "fun-ex-hello-world"
+   56  _version = 0.1
+   57  code uno.py
+   58  python uno.py
+   59  python3 uno.p
+   60  clear
+   61  pyhton uno.py
+   62  python uno.py
+   63  python3 uno.py
+   64  clear
+   65  python uno.py
+   66  clear
+   67  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+   68  clear
+   69  python uno.py
+   70  clear
+   71  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+   72  clear
+   73  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+   74  clear
+   75  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+   76  clear
+   77  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+   78  clear
+   79  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+   80  clear
+   81  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+   82  clear
+   83  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+   84  clear
+   85  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+   86  clear
+   87  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+   88  clear
+   89  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+   90  clear
+   91  /bin/python3 /home/wtc/Documents/hello-world/greet.py
+   92  clear
+   93  code uno.py
+   94  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+   95  pip install numpy
+   96  intsall numpy
+   97  install numpy
+   98  install --help
+   99  pip install numpy
+  100  sudo apt install python3-pip
+  101  clear
+  102  pip install numpy
+  103  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+  104  printenv > "/tmp/tmp-277914JpSzWNF0hm4.txt"
+  105  clear
+  106  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+  107  clear
+  108  /bin/python3 /home/wtc/Documents/hello-world/uno.py
+  109  cd Documents
+  110  git clone git@gitlab.wethinkco.de:oysishujhb024/my-uno-project.git
+  111  cd my-uno-project
+  112  code .
+  113  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  114  clear
+  115  git status
+  116  git add .
+  117  git status
+  118  git commit
+  119  git commit -m "building deck function"
+  120  git push
+  121  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  122  clear
+  123  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  124  clear
+  125  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  126  clear
+  127  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  128  clear
+  129  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  130  yintanda Sishuba authored just no
+  131  clear
+  132  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  133  clear
+  134  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  135  clear
+  136  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  137  clear
+  138  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  139  clear
+  140  git status
+  141  git add .
+  142  git status
+  143  git commit -m "shuffled the deck using the random.shuffle() function"
+  144  git push
+  145  git dtatus
+  146  git status
+  147  clean
+  148  clear
+  149  git status
+  150  git add .
+  151  git status 
+  152  git commit -m "shuffled deck using the random.shuffle() function
+  153  git push
+  154  clear
+  155  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  156  clear
+  157  git status
+  158  clear
+  159  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  160  clear
+  161  clear
+  162  git status
+  163  git add
+  164  clear
+  165  git status
+  166  git add .
+  167  git status
+  168  git commit -m "shuffled deck using random.shuffle()"
+  169  git push
+  170  git status
+  171  clear
+  172  git push
+  173  clear
+  174  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  175  clear
+  176  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  177  clear
+  178  git status
+  179  git add .
+  180  git status
+  181  git commit -m "created function that deals 7 cards at the begining of the game, but can also be used for cards players have to draw during the game"
+  182  git push
+  183  git status
+  184  clear
+  185  git status
+  186  git push
+  187  clear
+  188  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  189  clear
+  190  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  191  clear
+  192  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  193  /bin/python3 /home/wtc/les.py
+  194  clear
+  195  /bin/python3 /home/wtc/les.py
+  196  clear
+  197  /bin/python3 /home/wtc/les.py
+  198  clear
+  199  code another.py
+  200  /bin/python3 /home/wtc/Documents/my-uno-project/another.py
+  201  clear
+  202  code whatevs.py
+  203  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  204  draw card
+  205  clear
+  206  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  207  6
+  208  clear
+  209  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  210  clear
+  211  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  212  clear
+  213  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  214  clear
+  215  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  216  clear
+  217  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  218  clear
+  219  python whatevs.py
+  220  clear
+  221  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  222  clear
+  223  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  224  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  225  clear
+  226  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  227  clear
+  228  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  229  clear
+  230  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  231  clear
+  232  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  233  clear
+  234  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  235  clear
+  236  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  237  clear
+  238  /bin/python3 /home/wtc/Documents/my-uno-project/whatevs.py
+  239  clear
+  240  code oyi.py
+  241  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  242  clear
+  243  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  244  clear
+  245  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  246  clear
+  247  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  248  clear
+  249  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  250  clear
+  251  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  252  clear
+  253  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  254  clear
+  255  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  256  clear
+  257  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  258  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  259  clear
+  260  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  261  clear
+  262  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  263  clear
+  264  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  265  clear
+  266  clear
+  267  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  268  clear
+  269  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  270  clear
+  271  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  272  clear
+  273  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  274  clear
+  275  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  276  clear
+  277  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  278  clear
+  279  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  280  clear
+  281  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  282  clear
+  283  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  284  clear
+  285  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  286  clear
+  287  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  288  clear
+  289  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  290  clear
+  291  /bin/python3 /home/wtc/Documents/my-uno-project/oyi.py
+  292  clear
+  293  git clone git@github.com:Auston-Mtabane/uno-logo.git
+  294  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  295  clear
+  296  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  297  clear
+  298  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  299  clear
+  300  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  301  clear
+  302  git status
+  303  git add .
+  304  git status
+  305  git commit -m "updated"
+  306  git push
+  307  clear
+  308  /bin/python3 /home/wtc/Documents/my-uno-project/uno.py
+  309  clear
+  310  code test_smallest.py
+  311  clear
+  312  /bin/python3 /home/wtc/Documents/test_smallest.py
+  313  clear
+  314  $ python -m unittest test_smallest.py
+  315  python -m unittest test_smallest.py
+  316  python3 -m unittest test_smallest.py
+  317  clear
+  318  /bin/python3 /usr/lib/python3.10/unittest/loader.py
+  319  clear
+  320  /bin/python3 /home/wtc/Documents/smallest.py
+  321  clear
+  322  python3 -m unittest test_smallest.py
+  323  cd Documents
+  324  git clone git@gitlab.wethinkco.de:oysishujhb024/password-validator.git
+  325  cd password-validator
+  326  code .
+  327  code password_validator.py
+  328  code test_password_validator.py
+  329  clear
+  330  pip install unittest
+  331  /bin/python3 /home/wtc/Documents/password-validator/test_password_validator.py
+  332  unittest --version
+  333  python3--unittest
+  334  python3 -m unittest
+  335  clear
+  336  python3 -m unittest test_password_validator.py
+  337  clear
+  338  python3 -m unittest test_password_validator.py
+  339  clear
+  340  git status
+  341  git add .
+  342  git status
+  343  git commit -m "defined is password secure function"
+  344  git push
+  345  clear
+  346  git status
+  347  git add .
+  348  git status
+  349  git commit -m "used if statement to check the length of the password"
+  350  git push
+  351  /bin/python3 /home/wtc/Documents/password-validator/password_validator.py
+  352  clear
+  353  /bin/python3 /home/wtc/Documents/password-validator/password_validator.py
+  354  clear
+  355  /bin/python3 /home/wtc/Documents/password-validator/password_validator.py
+  356  clear
+  357  /bin/python3 /home/wtc/Documents/password-validator/password_validator.py
+  358  clear
+  359  /bin/python3 /home/wtc/Documents/password-validator/password_validator.py
+  360  clear
+  361  /bin/python3 /home/wtc/Documents/password-validator/password_validator.py
+  362  clear
+  363  /bin/python3 /home/wtc/Documents/password-validator/password_validator.py
+  364  clear
+  365  /bin/python3 /home/wtc/Documents/password-validator/password_validator.py
+  366  clear
+  367  /bin/python3 /home/wtc/Documents/password-validator/password_validator.py
+  368  clear
+  369  /bin/python3 /home/wtc/Documents/password-validator/password_validator.py
+  370  clear
+  371  /bin/python3 /home/wtc/Documents/password-validator/password_validator.py
+  372  clear
+  373  cd Documents
+  374  git clone git@gitlab.wethinkco.de:oysishujhb024/roman-numerals.git
+  375  cd roman-numerals
+  376  code .
+  377  clar
+  378  clear
+  379  cd roman-numerals
+  380  clear
+  381  cd roman-numerals
+  382  code number_representations.py
+  383  code test_number_representations.py
+  384  clear
+  385  cd Documents
+  386  git@gitlab.wethinkco.de:oysishujhb024/mastermind.git
+  387  clear
+  388  cd Documents
+  389  git clone git@gitlab.wethinkco.de:oysishujhb024/mastermind.git
+  390  cd mastermind
+  391  code .
+  392  /bin/python3 /home/wtc/Documents/roman-numerals/number_representations.py
+  393  clear
+  394  /bin/python3 /home/wtc/Documents/roman-numerals/number_representations.py
+  395  clear
+  396  python3 -m unittest test_number_representations.py
+  397  clear
+  398  python3 -m unittest test_number_representations.py
+  399  python3 -m unittest test_number_representations.py/bin/python3 /home/wtc/Documents/roman-numerals/test_number_representations.py
+  400  clear
+  401  python3 -m unittest test_number_representations.py
+  402  python3 -m unittest test_number_representations.py/bin/python3 /home/wtc/Documents/roman-numerals/test_number_representations.py
+  403  python3 -m unittest test_number_representations.py
+  404  clear
+  405  python3 -m unittest test_number_representations.py
+  406  clear
+  407  python3 -m unittest test_number_representations.py
+  408  clear
+  409  python3 -m unittest test_number_representations.py
+  410  clear
+  411  python3 -m unittest test_number_representations.py
+  412  clear
+  413  python3 -m unittest test_number_representations.py
+  414  CLEAR
+  415  clear
+  416  git status 
+  417  git add .
+  418  git status
+  419  git commit -m "final version"
+  420  git push
+  421  cd Documents
+  422  git clone git@github.com:OyintandaS/Code-Crunch-Marathon.git
+  423  cd Code-Crunch-Marathon
+  424  code .
+  425  /bin/python3 /home/wtc/Documents/Code-Crunch-Marathon/quotes.py
+  426  clear
+  427  /bin/python3 /home/wtc/Documents/Code-Crunch-Marathon/quotes.py
+  428  /bin/python3 /home/wtc/Documents/Code-Crunch-Marathon/practice.py
+  429  clear
+  430  /bin/python3 /home/wtc/Documents/Code-Crunch-Marathon/practice.py
+  431  clear
+  432  /bin/python3 /home/wtc/Documents/Code-Crunch-Marathon/practice.py
+  433  clear
+  434  /bin/python3 /home/wtc/Documents/Code-Crunch-Marathon/practice.py
+  435  clear
+  436  /bin/python3 /home/wtc/Documents/Code-Crunch-Marathon/practice.py
+  437  clear
+  438  /bin/python3 /home/wtc/Documents/Code-Crunch-Marathon/practice.py
+  439  /bin/python3 /home/wtc/Documents/Code-Crunch-Marathon/quotes.py
+  440  cd Documents/
+  441  python3 file.py
+  442  cd Documents
+  443  git clone git@gitlab.wethinkco.de:oysishujhb024/cash-register.git
+  444  cd cash-register
+  445  code .
+  446  code cash_register.py
+  447  code test_cash_register.py
+  448  clear
+  449  /bin/python3 /home/wtc/Documents/cash-register/cash_register.py
+  450  clear
+  451  /bin/python3 /home/wtc/Documents/cash-register/cash_register.py
+  452  clear
+  453  /bin/python3 /home/wtc/Documents/cash-register/cash_register.py
+  454  clear
+  455  /bin/python3 /home/wtc/Documents/cash-register/cash_register.py
+  456  /bin/python3 /home/wtc/Documents/mastermind/mastermind.py
+  457  /bin/python3 /home/wtc/Documents/mastermind/test_mastermind.py
+  458  /bin/python3 /home/wtc/Documents/mastermind/mastermind.py
+  459  clear
+  460  python3 -m unittest test_mastermind.py
+  461  clear
+  462  /bin/python3 /home/wtc/Documents/mastermind/mastermind.py
+  463  clear
+  464  /bin/python3 /home/wtc/Documents/mastermind/mastermind.py
+  465  clear
+  466  /bin/python3 /home/wtc/Documents/mastermind/mastermind.py
+  467  clear
+  468  /bin/python3 /home/wtc/Documents/mastermind/mastermind.py
+  469  clear
+  470  python3 -m unittest test_mastermind.py
+  471  clear
+  472  /bin/python3 /home/wtc/Documents/cash-register/cash_register.py
+  473  clear
+  474  git status
+  475  git add .
+  476  git status
+  477  git commit -m "final version of mastermind"
+  478  git push
+  479  clear
+  480  /bin/python3 /home/wtc/Documents/cash-register/cash_register.py
+  481  clear
+  482  git status
+  483  git add .
+  484  git status
+  485  git commit -m "tried calculating the change using if statements and a for loop"
+  486  git push
+  487  cd Documents
+  488  git clone git@gitlab.wethinkco.de:oysishujhb024/alien-units.git
+  489  cd alien-units
+  490  code .
+  491  /bin/python3 /home/wtc/Documents/alien-units/units.py
+  492  clear
+  493  python3 -m unittest test_units.py
+  494  clear
+  495  /bin/python3 /home/wtc/Documents/alien-units/units.py
+  496  python3 -m unittest test_units.py
+  497  clear
+  498  git status
+  499  git add .
+  500  git status
+  501  git commit -m "updated"
+  502  git push
+  503  cd Documents
+  504  git clone git@gitlab.wethinkco.de:oysishujhb024/spam-detection.git
+  505  cd spam-detection
+  506  code .
+  507  code spam.py
+  508  clear
+  509  python3 spam.py path/to/email.txt
+  510  clear
+  511  /bin/python3 /home/wtc/Documents/spam-detection/spam.py
+  512  clear
+  513  python3 spam.py path/to/email.txt
+  514  clear
+  515  /bin/python3 /home/wtc/Documents/spam-detection/spam.py
+  516  clear
+  517  python3 spam.py path/to/email.txt
+  518  clear
+  519  /bin/python3 /home/wtc/Documents/spam-detection/spam.py
+  520  clear
+  521  code spam2.py
+  522  /bin/python3 /home/wtc/Documents/spam-detection/spam2.py
+  523  clear
+  524  /bin/python3 /home/wtc/Documents/spam-detection/spam.py
+  525  /bin/python3 /home/wtc/Documents/spam-detection/spam2.py
+  526  /bin/python3 /home/wtc/Documents/spam-detection/spam.py
+  527  clear
+  528  /bin/python3 /home/wtc/Documents/spam-detection/spam.py
+  529  python3 spam.py emails.txt
+  530  clear
+  531  python3 spam.py emails.txt
+  532  python3 spam.py emails.txtclear
+  533  clear
+  534  python3 spam.py emails.txtclear
+  535  clear
+  536  python3 spam.py emails.txtclear
+  537  python3 spam.py emails.txt
+  538  clear
+  539  python3 spam.py emails.txt
+  540  clear
+  541  python3 spam.py emails.txt
+  542  /bin/python3 /home/wtc/Documents/spam-detection/spam.py
+  543  python3 spam.py emails.txt
+  544  clear
+  545  git status
+  546  git add .
+  547  git status
+  548  git commit -m "function that checks if email is spam or not"
+  549  git push
+  550  clear
+  551  python3 spam.py emails.txt
+  552  git status
+  553  git add .
+  554  git status
+  555  git commit -m "updated"
+  556  git push
+  557  clear
+  558  python3 spam.py emails.txt
+  559  git status
+  560  git add .
+  561  git status
+  562  git commit -m "removed other print functions"
+  563  git push
+  564  python3 spam.py emails.txt
+  565  git status
+  566  git add .
+  567  git status
+  568  git commit -m "fixed my spamFunction"
+  569  git push
+  570  clear
+  571  python3 spam.py emails.txt
+  572  git status
+  573  git add .
+  574  git status
+  575  git commit -m "added more spam words"
+  576  git push
+  577  clear
+  578  python3 spam.py emails.txt
+  579  git status
+  580  gid add .
+  581  git add .
+  582  git status
+  583  git commit -m "made all my phrases lower case"
+  584  git push
+  585  python3 spam.py emails.txt
+  586  /bin/python3 /home/wtc/Documents/spam-detection/spam.py
+  587  clear
+  588  pip install emoji
+  589  clear
+  590  /bin/python3 /home/wtc/Documents/spam-detection/spam.py
+  591  python3 spam.py emails.txt
+  592  clear
+  593  python3 spam.py emails.txt
+  594  git status
+  595  git add .
+  596  git status
+  597  git commit -m "change lines 30 and 32"
+  598  git push
+  599  clear
+  600  python3 spam.py emails.txt
+  601  clear
+  602  git status
+  603  git add .
+  604  git status
+  605  git commit -m "added if and else statements that check the length of he email"
+  606  git push
+  607  clear
+  608  python3 spam.py emails.txt
+  609  clear
+  610  git status
+  611  git add .
+  612  git status
+  613  git commit -m "added more words to the list"
+  614  git push
+  615  python3 spam.py emails.txt
+  616  Sender: support@yourbank-services.com
+  617  Subject: Urgent! Verify Your Bank Account Now
+  618  Dear Valued Customer,
+  619  We have detected unusual activity on your bank account. To avoid temporary suspension, you must log in using the secure link below:
+  620  👉 Secure Login
+  621  Failure to act will permanently block your account. Please verify your details immediately to avoid disruption.
+  622  Regards,
+  623  Your Bank Support Tea 
+  624  clear
+  625  python3 spam.py emails.txt
+  626  git status
+  627  git add .
+  628  git status
+  629  git commit -m "added more words"
+  630  git push
+  631  clear
+  632  /bin/python3 /home/wtc/Documents/Code-Crunch-Marathon/practice.py
+  633  clear
+  634  python3 spam.py emails.txt
+  635  clear
+  636  git status
+  637  git add .
+  638  git status
+  639  git commit -m "added more phrases, again"
+  640  git push
+  641  python3 spam.py emails.txt
+  642  clear
+  643  python3 spam.py emails.txt
+  644  clear
+  645  /bin/python3 /home/wtc/Documents/cash-register/cash_register.py
+  646  cd Documents
+  647  git clone git@github.com:OyintandaS/Code-Crunch-Marathon.git
+  648  clear
+  649  git pull
+  650  clear
+  651  /bin/python3 /home/wtc/Documents/Code-Crunch-Marathon/practice.py
+  652  cd Documents
+  653  git clone git@github.com:OyintandaS/Code-Crunch-Marathon.git
+  654  cd Code-Crunch-Marathon
+  655  code .
+  656  clear
+  657  python3 -m venv .venv
+  658  sudo apt install python3.10-venv
+  659  pip --version
+  660  clear
+  661  history > history.txt
